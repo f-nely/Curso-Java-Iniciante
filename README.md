@@ -1,1 +1,1 @@
-# Curso-Java-Iniciante
+# Curso de Java do Curso em Vídeo
