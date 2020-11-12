@@ -4,9 +4,13 @@ public class Contador01 {
 
     public static void main(String[] args) {
         int cc = 0;
-        while (cc < 4) {
-            System.out.println("Cambalhota " + cc);
+        while (cc < 10) {
             cc++;
+            if (cc == 5 || cc == 7) {
+                continue;
+            }
+            System.out.println("Cambalhota " + cc);
+
         }
     }
 
